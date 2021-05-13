@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cleanxy App1</string>
+    <string name="name">Name</string>
+    <string name="email">Email_Id</string>
+    <string name="phone">Phone No.</string>
+    <string name="user_otp">Enter your OTP here</string>
+    <string name="resend">Resend OTP</string>
+    <string name="send">Send</string>
+</resources>
